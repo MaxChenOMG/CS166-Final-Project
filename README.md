@@ -4,6 +4,7 @@ Comparing Abundance-Only Models vs. Molecular Structure Embeddings (Morgan FP & 
 This repository contains the full workflow, code, and analysis for my CS166 Computational Systems Biology final project.
 The goal is to evaluate how molecular structural information (Morgan fingerprints or ChemBERTa embeddings) can improve—or fail to improve—classification performance when predicting disease status from LC-MS metabolomics data.
 
+📄 The final project report is included in this repository as **CS_166_Computational_System_Biology_Final_Project.pdf**.
 
 📚 Dataset Source
 
