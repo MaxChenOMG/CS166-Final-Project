@@ -6,6 +6,9 @@ The goal is to evaluate how molecular structural information (Morgan fingerprint
 
 📄 The final project report is included in this repository as **CS_166_Computational_System_Biology_Final_Project.pdf**.
 
+🎬 2-minute Final Project Video: A concise video summary of this project’s final report is available here:
+https://drive.google.com/file/d/1PK9S4hay6uD1bQbCygHO087v-aghgxer/view?usp=sharing
+
 📚 Dataset Source
 
 All data come from the public metabolomics repository MetaboLights:
