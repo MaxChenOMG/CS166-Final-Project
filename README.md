@@ -8,7 +8,7 @@ The goal is to evaluate how molecular structural information (Morgan fingerprint
 
 🎬 2-minute Final Project Video: A concise video summary of this project’s final report is available here:
 https://drive.google.com/file/d/1PK9S4hay6uD1bQbCygHO087v-aghgxer/view?usp=sharing
-Video explanation after TA's feedback: 
+Video explanation after TA's feedback: https://drive.google.com/file/d/1KkiMK5byC4dXMqhFjBrxjOCppmKLXhjZ/view?usp=drive_link
 
 📚 Dataset Source
 
